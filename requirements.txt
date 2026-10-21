@@ -1,0 +1,16 @@
+﻿# 배포(Streamlit Community Cloud)에서 그대로 설치됩니다. 지금 앱과 호환되는 확인된 버전으로 고정했습니다.
+# Python 3.12 기준입니다. Cloud 의 Advanced settings 에서 Python version 을 3.12 로 고릅니다.
+streamlit==1.66.0
+langchain-core==1.6.12
+langchain-openai==1.7.2
+openai==3.35.1
+langsmith==0.14.11
+python-dotenv==1.2.4
+requests==2.34.2
+Pillow==12.3.0
+# 캘린더 기능 (실습 4). 배포 앱에서는 구글 인증 정보가 없으므로 '준비 안 됨'으로 표시됩니다.
+mcp==1.30.0
+google-api-python-client==2.201.0
+google-auth-oauthlib==1.5.0
+google-auth-httplib2==0.4.4
+tzdata==2026.5

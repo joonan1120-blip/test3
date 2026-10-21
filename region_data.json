@@ -1,0 +1,2353 @@
+{
+  "regions": [
+    {
+      "name": "서울",
+      "lon": 126.98,
+      "lat": 37.57,
+      "places": [
+        {
+          "name": "경복궁",
+          "note": "조선 왕궁의 전각과 정원을 둘러보는 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/500px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/500px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EB%B3%B5%EA%B6%81",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/01_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "북촌한옥마을",
+          "note": "골목을 따라 전통 한옥이 이어지는 마을",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg/500px-Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg/500px-Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/01_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "N서울타워",
+          "note": "남산에서 서울 전경을 감상하기 좋은 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Seoul_Tower_%284394893276%29.jpg/500px-Seoul_Tower_%284394893276%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Seoul_Tower_%284394893276%29.jpg/500px-Seoul_Tower_%284394893276%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/YTN%EC%84%9C%EC%9A%B8%ED%83%80%EC%9B%8C",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/01_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "광장시장 빈대떡",
+          "note": "노릇하게 부쳐 낸 시장 대표 먹거리",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Frying_Bindaetteok.jpg/500px-Frying_Bindaetteok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Frying_Bindaetteok.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Frying_Bindaetteok.jpg/500px-Frying_Bindaetteok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/01_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "신당동 떡볶이",
+          "note": "즉석에서 끓여 먹는 매콤한 떡볶이",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tteokbokki.JPG/500px-Tteokbokki.JPG?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EB%96%A1%EB%B3%B6%EC%9D%B4",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tteokbokki.JPG/500px-Tteokbokki.JPG?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "local": "/app/static/photos/01_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "설렁탕",
+          "note": "뽀얀 국물에 밥을 곁들여 먹는 음식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Seolleongtang2024.jpg/500px-Seolleongtang2024.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Seolleongtang2024.jpg/500px-Seolleongtang2024.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EC%84%A4%EB%A0%81%ED%83%95",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/01_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "경복궁 한복 체험",
+          "note": "한복을 입고 궁궐을 거닐며 사진 찍기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/7fE00T2yA1L",
+            "full": "http://t1.daumcdn.net/cafeattach/aVeZ/fc61cbfe2c92070935bf499b9ac9f89e77b07cc1",
+            "page": "https://cafe.daum.net/saengcho36/IJ4e/5927",
+            "source": "kakao",
+            "local": "/app/static/photos/01_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "한강공원 자전거 타기",
+          "note": "강변 자전거길을 따라 여유롭게 달리기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/Ii8the2XAq9",
+            "full": "https://postfiles.pstatic.net/MjAyNDA0MTlfMTIy/MDAxNzEzNTMxNDczMjIw.L5NO6LvgcbfgHiFJZIcdEu_wUtCXyfwGGexmu267CDQg.1DvaBkSkbNQ6EpCopX7QT119bdrE-IbO6GswdUylfU4g.JPEG/output_645937107.jpg?type=w386",
+            "page": "http://blog.naver.com/haveagoodhearted/223421072222",
+            "source": "kakao",
+            "local": "/app/static/photos/01_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "서울시티투어버스",
+          "note": "버스를 타고 서울 주요 명소 둘러보기",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Seoul_Tiger_Open_Top_Bus.jpg/500px-Seoul_Tiger_Open_Top_Bus.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Seoul_Tiger_Open_Top_Bus.jpg/500px-Seoul_Tiger_Open_Top_Bus.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%8B%9C%ED%8B%B0%ED%88%AC%EC%96%B4%EB%B2%84%EC%8A%A4",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/01_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "인천",
+      "lon": 126.7,
+      "lat": 37.46,
+      "places": [
+        {
+          "name": "송도 센트럴파크",
+          "note": "수로와 고층 건물이 어우러진 도심 공원",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Songdo_Central_Park_in_2021.jpg/500px-Songdo_Central_Park_in_2021.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Songdo_Central_Park_in_2021.jpg/500px-Songdo_Central_Park_in_2021.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EC%86%A1%EB%8F%84_%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%8C%8C%ED%81%AC",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/02_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "인천 차이나타운",
+          "note": "중국풍 거리와 다양한 먹거리가 있는 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Chinatown%2C_incheon_20230430_002.jpg/500px-Chinatown%2C_incheon_20230430_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Chinatown%2C_incheon_20230430_002.jpg/500px-Chinatown%2C_incheon_20230430_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C_%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/02_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "월미도",
+          "note": "바다를 보며 산책하기 좋은 관광지",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/F17ypDic7oM",
+            "full": "https://postfiles.pstatic.net/MjAxODA0MTdfMTEw/MDAxNTIzOTc2NzYxMTM3.OLNEYc1GGL0BMDAHbVZZIzXQppgBsqsciwJq356AEmsg.rbbNIV_48CPleXXbw2voUVlcy9R_2UZUkREiFdNr6VMg.JPEG.amibani/NaverBlog_20180417_235240_09.jpg?type=w1",
+            "page": "http://blog.naver.com/amibani/221255351933",
+            "source": "kakao",
+            "local": "/app/static/photos/02_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "신포닭강정",
+          "note": "달콤매콤한 양념이 특징인 인천 별미",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/HZypnYR2U6",
+            "full": "https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fcafeptthumb1.phinf.naver.net%2F20130928_225%2Fbigisoso1_1380301163975LaBGm_JPEG%2F20130925_170406.jpg%3Ftype%3Dw740%22&type=m10000_10000",
+            "page": "http://blog.naver.com/bigisoso1/60204050173",
+            "source": "kakao",
+            "local": "/app/static/photos/02_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "밴댕이회무침",
+          "note": "새콤한 양념에 버무린 제철 해산물",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Baendaengi-hoe-muchim.jpg/500px-Baendaengi-hoe-muchim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Baendaengi-hoe-muchim.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Baendaengi-hoe-muchim.jpg/500px-Baendaengi-hoe-muchim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/02_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "강화순무김치",
+          "note": "알싸한 순무로 담근 강화도 특산 김치",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/IFBZHoL8fP0",
+            "full": "http://cfile256.uf.daum.net/image/2468F14658201513127E97",
+            "page": "https://cafe.daum.net/sansamtkdgh/FZAP/5865",
+            "source": "kakao",
+            "local": "/app/static/photos/02_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "월미바다열차 탑승",
+          "note": "열차를 타고 월미도 풍경 둘러보기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/7FIKATafcPa",
+            "full": "https://scrap.kakaocdn.net/dn/ztwmN/hyYchcgVZP/sfYagq7WMJ0A5973BQjTdK/img.jpg?width=720&height=372&face=0_0_720_372,https://scrap.kakaocdn.net/dn/9W73B/hyYfKKBmXZ/m6RjiEYF4xfpiKcInWbBO0/img.jpg?width=720&height=372&face=0_0_720_372,https://scrap.kakaocdn.net/dn/bl4jnF/hyYf0mm10l/5jDcZ1Edk6pYZKPdWRXBP0/img.jpg?width=720&height=580&face=0_0_720_580",
+            "page": "https://cafe.daum.net/whangsa114/IF5n/22571",
+            "source": "kakao",
+            "local": "/app/static/photos/02_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "강화 루지 체험",
+          "note": "전용 트랙을 따라 신나게 내려오기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/BXiScdYcoMq",
+            "full": "https://blog.kakaocdn.net/dn/kKoUL/btsIigAl1Dt/kdjqEukOixrl1accLqhpt0/img.png",
+            "page": "https://lolife.tistory.com/72",
+            "source": "kakao",
+            "local": "/app/static/photos/02_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "소래포구 어시장 구경",
+          "note": "싱싱한 해산물과 활기찬 시장 즐기기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/5ultyqplef1",
+            "page": "http://blog.naver.com/rapatrip/222790880764",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyMjA2MjdfMTI2/MDAxNjU2MzExNTgzMDM5.0_0ML-oMZM1CEk6XQ1gI9ylwSW-I1trFYYFwsxVH5XYg._PqfBMUpwOuD8TYTRgIcs_z9pCoVboL5mDWUaPaeuQkg.JPEG.kokoun85/GettyImages-a12560164.jpg?type=w966",
+            "local": "/app/static/photos/02_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "수원",
+      "lon": 127.03,
+      "lat": 37.26,
+      "places": [
+        {
+          "name": "수원화성",
+          "note": "성곽을 따라 수원의 역사를 걷는 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bifyu_8.jpg/500px-Bifyu_8.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bifyu_8.jpg/500px-Bifyu_8.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/03_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "화성행궁",
+          "note": "정조가 머물던 궁궐을 둘러보는 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Hwaseong_Haenggung_Palace.jpg/500px-Hwaseong_Haenggung_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Hwaseong_Haenggung_Palace.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Hwaseong_Haenggung_Palace.jpg/500px-Hwaseong_Haenggung_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/03_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "광교호수공원",
+          "note": "호숫가 산책과 야경을 즐기기 좋은 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg/500px-%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_(3).jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg/500px-%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/03_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "본수원갈비",
+          "note": "수원식 왕갈비를 맛볼 수 있는 식당",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/6r8fwkh4FZT",
+            "full": "https://postfiles.pstatic.net/MjAyNTA5MjNfMTkx/MDAxNzU4NTg3OTE4NjE0.dXhnlM8nw9thqHdsrmXHF5h2Ha1wdCgTSd2g3zlSjbMg.g-c13P4u6jTPudVRBvSgxrXXHYOFrZPjDV74FHRBTVUg.JPEG/%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%8D%B8%EB%84%AC.jpg?type=w773",
+            "page": "http://blog.naver.com/shyunee2/224018385779",
+            "source": "kakao",
+            "local": "/app/static/photos/03_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "진미통닭",
+          "note": "수원 통닭거리의 오래된 통닭집",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Iksan_City_48_Korean_Style_Fried_chicken.jpg/500px-Iksan_City_48_Korean_Style_Fried_chicken.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EC%B9%98%ED%82%A8_(%ED%95%9C%EA%B5%AD_%EC%9D%8C%EC%8B%9D)",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Iksan_City_48_Korean_Style_Fried_chicken.jpg/500px-Iksan_City_48_Korean_Style_Fried_chicken.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "local": "/app/static/photos/03_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "유치회관",
+          "note": "진한 국물의 선지해장국으로 유명한 곳",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/Bot3YrXlMRi",
+            "full": "http://cfile226.uf.daum.net/image/1451A73C4FB8F98C12E7E5",
+            "page": "https://cafe.daum.net/tonG/Hopy/362",
+            "source": "kakao",
+            "local": "/app/static/photos/03_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "화성어차 탑승",
+          "note": "어차를 타고 수원화성 명소를 둘러보기",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/DdTHsvRu6m8",
+            "page": "http://blog.naver.com/mko0506/223988634312",
+            "source": "kakao",
+            "full": "https://blogfiles.pstatic.net/MjAyNTA4MjhfMTU0/MDAxNzU2MzQyNDEzNzI1.3vNBzU6uGHMCw8ciHiVlVyh2k_9STaJhk0QYqi6W6eEg.RhsikD_AuMblyoaeZdvHAvLU2kCr3OvEeQjKkDCJ6hwg.JPEG/900%EF%BC%BF1756342413131.jpg?type=w1",
+            "local": "/app/static/photos/03_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "연무대 국궁 체험",
+          "note": "전통 활쏘기를 직접 배워보는 체험",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/JR9XK0pGKBi",
+            "full": "http://cfile216.uf.daum.net/image/2337464151BE36380AD593",
+            "page": "https://cafe.daum.net/tourbloger/p5gR/41",
+            "source": "kakao",
+            "local": "/app/static/photos/03_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "플라잉수원 탑승",
+          "note": "열기구에서 수원화성을 내려다보기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/HJffvxv9XXe",
+            "page": "http://blog.naver.com/yeahzy44/223420466007",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyNDA0MTlfOTYg/MDAxNzEzNDkzMzM5ODE2.CpfIv42xfDAfkl7jR3CmJQJMgxY4tq6C2uoWhWq0dGAg.AG9ttvHeaaq6Efu49Mu9PEojKnMjjX7ecPyc0PVKDbwg.JPEG/1_(19).jpg?type=w966",
+            "local": "/app/static/photos/03_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "강릉",
+      "lon": 128.9,
+      "lat": 37.75,
+      "places": [
+        {
+          "name": "경포해변",
+          "note": "넓은 백사장과 바다 풍경이 아름다운 해변",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/9Wt9sjFv01Z",
+            "page": "http://blog.naver.com/sodan4/220014801180",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/20140529_201/sodan4_1401360398071Gg72I_JPEG/TS00765.jpg?type=w1",
+            "local": "/app/static/photos/04_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "오죽헌",
+          "note": "율곡 이이와 신사임당의 흔적을 만나는 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/%EA%B0%95%EB%A6%89_%EC%98%A4%EC%A3%BD%ED%97%8C_%EC%9C%A8%EA%B3%A1%EB%A7%A4%28%EC%B4%AC%EC%98%81_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD%29.jpg/500px-%EA%B0%95%EB%A6%89_%EC%98%A4%EC%A3%BD%ED%97%8C_%EC%9C%A8%EA%B3%A1%EB%A7%A4%28%EC%B4%AC%EC%98%81_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EA%B0%95%EB%A6%89_%EC%98%A4%EC%A3%BD%ED%97%8C_%EC%9C%A8%EA%B3%A1%EB%A7%A4(%EC%B4%AC%EC%98%81_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD).jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/%EA%B0%95%EB%A6%89_%EC%98%A4%EC%A3%BD%ED%97%8C_%EC%9C%A8%EA%B3%A1%EB%A7%A4%28%EC%B4%AC%EC%98%81_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD%29.jpg/500px-%EA%B0%95%EB%A6%89_%EC%98%A4%EC%A3%BD%ED%97%8C_%EC%9C%A8%EA%B3%A1%EB%A7%A4%28%EC%B4%AC%EC%98%81_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/04_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "정동진",
+          "note": "바다와 가까운 역으로 유명한 일출 명소",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%A0%95%EB%8F%99%EC%A7%84%ED%95%B4%EC%95%88%EB%8B%A8%EA%B5%AC.jpg/500px-%EC%A0%95%EB%8F%99%EC%A7%84%ED%95%B4%EC%95%88%EB%8B%A8%EA%B5%AC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EC%A0%95%EB%8F%99%EC%A7%84%ED%95%B4%EC%95%88%EB%8B%A8%EA%B5%AC.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%A0%95%EB%8F%99%EC%A7%84%ED%95%B4%EC%95%88%EB%8B%A8%EA%B5%AC.jpg/500px-%EC%A0%95%EB%8F%99%EC%A7%84%ED%95%B4%EC%95%88%EB%8B%A8%EA%B5%AC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/04_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "초당순두부",
+          "note": "담백하고 부드러운 강릉의 대표 음식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Sundubu_2.jpg/500px-Sundubu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Sundubu_2.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Sundubu_2.jpg/500px-Sundubu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/04_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "장칼국수",
+          "note": "얼큰한 국물과 쫄깃한 면이 어울리는 음식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Jangkalguksu_20220501_001.jpg/500px-Jangkalguksu_20220501_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Jangkalguksu_20220501_001.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Jangkalguksu_20220501_001.jpg/500px-Jangkalguksu_20220501_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/04_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "강릉 중앙시장 닭강정",
+          "note": "시장 구경하며 맛보기 좋은 간식",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/Bj6O1mq0tYA",
+            "page": "http://blog.naver.com/sj5498/222141530548",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyMDExMTFfMzEg/MDAxNjA1MDc4NTIyNzM4.6aowF4vXrjpRDaoiE-xTfLEdXJprSGzezx8fFtCKbScg.dO4UkYz97_dug35MGnEkmphKTr7YRpuQZ0tV3EVHz9wg.JPEG.sj5498/1592738433563%EF%BC%BF20201111160253.jpg?type=w773",
+            "local": "/app/static/photos/04_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "안목커피거리 카페 투어",
+          "note": "바다를 바라보며 강릉 커피를 즐기기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/7EEfhf8cp9a",
+            "page": "http://blog.naver.com/lsnckk/223916863973",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyNTA2MzBfMjQ2/MDAxNzUxMjczMzAwMDM0.Fw-U9LoZ3saXtT2VyANP0ZzBTLpqHqJkMMJECStwusQg.fyzIEBAiJyQw1llDdcPEuv9CWv-VoQ3zCS1dpeQ5PP0g.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2025-06-30T174810.282.jpg?type=w966",
+            "local": "/app/static/photos/04_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "경포호 자전거 타기",
+          "note": "호숫가 길을 따라 여유롭게 달리기",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/3HEpaZ1hH6x",
+            "page": "http://blog.naver.com/arakny/223202366469",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyMzA5MDRfMyAg/MDAxNjkzODI5MDUyMTI5.ch4U7ipfHycxh1h6fobxBADljdgbS3tzr7gJvGHTIiwg.hqRSFrEUwf5lzaFTWs2qcgfETpG3GAMrydjFz1XrfPcg.JPEG.arakny/20230904%EF%BC%BF105403.jpg?type=w773",
+            "local": "/app/static/photos/04_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "정동진 일출 감상",
+          "note": "동해 수평선 위로 떠오르는 해 보기",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/JviR1NXHOGR",
+            "page": "http://blog.naver.com/itbgear/223687684420",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyNDEyMDVfMjk3/MDAxNzMzMzc2MTExOTAz.kiAqhBJJVPk3ssf_Ou_cRZOCOLYgslSBAPh0sPX-WYkg.PruHIsTXw753LgCCVV4-Dh6S08PmXuN-yLXaDtpm9n4g.JPEG/240_F_414091185_p8Pi90t8eXc8yD1P7DYYMgNWU0yQVAoA.jpg?type=w966",
+            "local": "/app/static/photos/04_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "속초",
+      "lon": 128.59,
+      "lat": 38.21,
+      "places": [
+        {
+          "name": "설악산국립공원",
+          "note": "기암괴석과 계곡을 만나는 명산",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/DYTiswTr9qO",
+            "page": "https://cp.news.search.daum.net/p/79829264",
+            "source": "kakao",
+            "full": "http://www.newskr.kr/news/photo/201905/20680_17865_3735.jpg",
+            "local": "/app/static/photos/05_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "속초해수욕장",
+          "note": "넓은 백사장과 푸른 동해가 펼쳐지는 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Sokcho_Beach_01.jpg/500px-Sokcho_Beach_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Sokcho_Beach_01.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Sokcho_Beach_01.jpg/500px-Sokcho_Beach_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/05_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "영금정",
+          "note": "바위에 부딪히는 파도 소리가 좋은 명소",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%EC%98%81%EA%B8%88%EC%A0%95_%28163539159%29.jpeg/500px-%EC%98%81%EA%B8%88%EC%A0%95_%28163539159%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EC%98%81%EA%B8%88%EC%A0%95_(163539159).jpeg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%EC%98%81%EA%B8%88%EC%A0%95_%28163539159%29.jpeg/500px-%EC%98%81%EA%B8%88%EC%A0%95_%28163539159%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/05_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "아바이순대",
+          "note": "속초 아바이마을을 대표하는 향토 음식",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/9mivJUtmcML",
+            "page": "http://blog.naver.com/jh44hkx9yjw/223279145439",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyMzExMzBfMTQz/MDAxNzAxMzI4MjU3ODA5.PVK9p0tRS9eLd4ilB5CBWEwfNdSX8J2_th1wLy-PAi8g.8fpDvalsyc9CnxupJkqEciD129KAzAykurb0VK_Q1D0g.JPEG.pvajiixdale/1.jpg?type=w773",
+            "local": "/app/static/photos/05_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "오징어순대",
+          "note": "오징어 속에 채소와 찹쌀을 채운 별미",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/430pXCUHiCD",
+            "page": "http://blog.naver.com/yjiseo1214/224011332566",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyNTA5MTdfNTYg/MDAxNzU4MDc1ODE2MzAw.mVjH_P-XI5cQTnv-BtwLWXpstocdnoKjhH5VjV753XYg.wZ5FwOAmyk85UEy4WoeUoCbiwQHhmG7lqJAP2pMzbwYg.JPEG/1758074850224.jpg?type=w966",
+            "local": "/app/static/photos/05_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "닭강정",
+          "note": "속초관광수산시장에서 인기 있는 간식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Chicken_Nugget_Fiesta.JPG/500px-Chicken_Nugget_Fiesta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Chicken_Nugget_Fiesta.JPG",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Chicken_Nugget_Fiesta.JPG/500px-Chicken_Nugget_Fiesta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/05_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "설악 케이블카 탑승",
+          "note": "권금성 부근에서 설악산 풍경 감상하기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/A4UzPMTSBDG",
+            "page": "http://blog.naver.com/schc221/221731946178",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAxOTEyMDlfNCAg/MDAxNTc1ODg1NTI0NDY1.26lZ4pdaPsRI-SZ5F75YfRuFMvp1avASWswvgrOuEaEg.r82EZqYx8YrsP7g4ZprnWrTK_K3d0pOG7t-KdnwTrFgg.JPEG.schc221/SE-6e36e94c-732f-452e-95d1-61e69c3281a8.jpg?type=w966",
+            "local": "/app/static/photos/05_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "아바이마을 갯배 타기",
+          "note": "줄을 당겨 물길을 건너는 이색 체험",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/6Up9i54KYY0",
+            "full": "http://cfile2.uf.tistory.com/image/1511A03E5052E58124850D",
+            "page": "https://cafe.daum.net/bbconcert/3imS/1613",
+            "source": "kakao",
+            "local": "/app/static/photos/05_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "영랑호 산책",
+          "note": "호숫가를 따라 여유롭게 걷기",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/D6BQtWhNhLY",
+            "page": "https://cafe.daum.net/dongdou/QC7W/1610",
+            "source": "kakao",
+            "full": "https://t1.daumcdn.net/cafeattach/1UrE/24b5e63e93fe9d839bacc1b5b7da46f83114c6b3",
+            "local": "/app/static/photos/05_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "대전",
+      "lon": 127.38,
+      "lat": 36.35,
+      "places": [
+        {
+          "name": "한밭수목원",
+          "note": "도심에서 산책하기 좋은 넓은 수목원",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/AA94nLt3fj3",
+            "page": "https://v.daum.net/v/20240805104203024",
+            "source": "kakao",
+            "full": "https://t1.daumcdn.net/news/202408/05/kukinews/20240805104205472ziun.jpg",
+            "local": "/app/static/photos/06_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "국립중앙과학관",
+          "note": "과학 전시를 두루 살펴볼 수 있는 곳",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/4ZSK6CCMgrF",
+            "full": "https://blog.kakaocdn.net/dn/nBAr6/dJMcahy2mC4/NAcHU2IABD3KcokGKI4jpk/img.jpg",
+            "page": "https://neat-informer.tistory.com/67",
+            "source": "kakao",
+            "local": "/app/static/photos/06_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "대전 오월드",
+          "note": "동물원과 놀이시설을 함께 즐기는 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Daejeon_Zooland.JPG/500px-Daejeon_Zooland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Daejeon_Zooland.JPG",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Daejeon_Zooland.JPG/500px-Daejeon_Zooland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/06_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "성심당",
+          "note": "튀김소보로로 유명한 대전의 빵집",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Sungsimdang_2019.jpg/500px-Sungsimdang_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Sungsimdang_2019.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Sungsimdang_2019.jpg/500px-Sungsimdang_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/06_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "오씨칼국수",
+          "note": "시원한 국물의 물총칼국수 맛집",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/HlBWM9mess3",
+            "page": "http://blog.naver.com/gu_gu__/224353299873",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyNjA3MjFfNSAg/MDAxNzg0NjE2NTA4Njg5.Fp9IH2sNCE0PJi009RxilwQUVQfJzzbUqf3OsDrSE9wg.Fmtp60TdGVstysWE-SH1sqUkZ00x7-WY4skFZfXL7tUg.JPEG/IMG%EF%BC%BF6034.JPG?type=w773",
+            "local": "/app/static/photos/06_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "태평소국밥",
+          "note": "든든한 소국밥을 맛볼 수 있는 식당",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/BnxWCeXO6pY",
+            "page": "https://kjong2.tistory.com/185",
+            "source": "kakao",
+            "full": "https://blog.kakaocdn.net/dn/cgLTte/btsK3gKjuFG/v3yDesWkAP3KkJug5DHBj1/img.jpg",
+            "local": "/app/static/photos/06_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "대청호 오백리길 걷기",
+          "note": "호수 풍경을 따라 여유롭게 걷기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/CSNfYVZ20ie",
+            "full": "https://postfiles.pstatic.net/MjAyMDA0MjBfMjEx/MDAxNTg3MzY4MjYwNjc2.1IafhUr-ADwBRukhg_xtdfgYTs6QZcST7OUR34q7rLQg.6Hykfwt6DvR59RFYxuf4dA1rAf0QS5SYKi2aXpyp22cg.JPEG.daejeondime/6.jpg?type=w966",
+            "page": "http://blog.naver.com/daejeondime/221918821213",
+            "source": "kakao",
+            "local": "/app/static/photos/06_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "유성온천 족욕체험",
+          "note": "따뜻한 온천수에 발을 담그며 쉬기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/7r7Z9bCyE5r",
+            "full": "http://postfiles2.naver.net/20160325_193/yuseonggu_1458867617224kMnEO_JPEG/naver_com_20160325_091151.jpg?type=w1",
+            "page": "https://cafe.daum.net/mrsuntown/Mknp/89",
+            "source": "kakao",
+            "local": "/app/static/photos/06_a2.jpg",
+            "low": true
+          }
+        },
+        {
+          "name": "대전 엑스포 아쿠아리움 관람",
+          "note": "다양한 수중 생물을 가까이서 만나기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/J6s7pfGHDNY",
+            "full": "https://pds.joins.com/news/component/newsis/201502/18/NISI20150218_0010639777_web.jpg",
+            "page": "https://news.joins.com/article/17189926",
+            "source": "kakao",
+            "local": "/app/static/photos/06_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "전주",
+      "lon": 127.15,
+      "lat": 35.82,
+      "places": [
+        {
+          "name": "전주한옥마을",
+          "note": "한옥 골목과 전통문화가 어우러진 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Jeonju_Hanok_Maeul_02.jpg/500px-Jeonju_Hanok_Maeul_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Maeul_02.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Jeonju_Hanok_Maeul_02.jpg/500px-Jeonju_Hanok_Maeul_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/07_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "경기전",
+          "note": "태조 어진을 모신 조선 왕실 유적",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%95%98%EB%A7%88%EB%B9%84_20240727.jpg/500px-%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%95%98%EB%A7%88%EB%B9%84_20240727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%95%98%EB%A7%88%EB%B9%84_20240727.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%95%98%EB%A7%88%EB%B9%84_20240727.jpg/500px-%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%95%98%EB%A7%88%EB%B9%84_20240727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/07_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "전동성당",
+          "note": "아름다운 벽돌 건축이 돋보이는 성당",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jeondong_Catholic_Cathedral_20230408_005.jpg/500px-Jeondong_Catholic_Cathedral_20230408_005.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jeondong_Catholic_Cathedral_20230408_005.jpg/500px-Jeondong_Catholic_Cathedral_20230408_005.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "local": "/app/static/photos/07_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "전주비빔밥",
+          "note": "다양한 나물과 고추장을 비벼 먹는 향토 음식",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/7sCuMOvXM5C",
+            "full": "https://postfiles.pstatic.net/MjAyNTEyMjRfMTEy/MDAxNzY2NTUzMzYzNTQw.jF5eDGdMfPwPBzO62v-qqbPta3b159vuVyk2XlEngq0g.A7NG4DQYXn624fDij5OobRHi_iZBcLDhOf-CIfwYggkg.JPEG/1766553157348.jpg?type=w773",
+            "page": "http://blog.naver.com/mko0506/224121196731",
+            "source": "kakao",
+            "local": "/app/static/photos/07_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "콩나물국밥",
+          "note": "시원한 국물로 사랑받는 전주의 대표 음식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/20240728_%EC%BD%A9%EB%82%98%EB%AC%BC%EA%B5%AD%EB%B0%A501.jpg/500px-20240728_%EC%BD%A9%EB%82%98%EB%AC%BC%EA%B5%AD%EB%B0%A501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:20240728_%EC%BD%A9%EB%82%98%EB%AC%BC%EA%B5%AD%EB%B0%A501.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/20240728_%EC%BD%A9%EB%82%98%EB%AC%BC%EA%B5%AD%EB%B0%A501.jpg/500px-20240728_%EC%BD%A9%EB%82%98%EB%AC%BC%EA%B5%AD%EB%B0%A501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/07_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "전주초코파이",
+          "note": "크림과 잼을 넣은 달콤한 전주 간식",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/5hPcCg6jiMl",
+            "page": "http://blog.naver.com/ldm522/222125826387",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyMDEwMjVfMjM5/MDAxNjAzNTk0MjU4NDM2.W0gu5TgCxnuG5zkkyrGsib0b-vO2WC3RubyDc3O0-ZYg.UYfOLGEsCDVi4H3W04pjiboCTscrIdN0DSDOcU5TwUAg.JPEG.ldm522/5.jpg?type=w580",
+            "local": "/app/static/photos/07_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "전주한옥마을 한복 체험",
+          "note": "한복을 입고 한옥 골목에서 사진 찍기",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/5pr65UWRg5r",
+            "full": "https://postfiles.pstatic.net/MjAyMDA5MDZfMjY2/MDAxNTk5MzU0NDI2Nzgy.xKP2inpRQ6QElVUXJ0OgI9XSasfijYe3qS4SehZyKp8g.UEmyEQrMJ_gSlNTSxzAsP12OMD94Pvs2t2a2oKXIcJog.JPEG.blogtalkyulll/1_(20).jpg?type=w773",
+            "page": "http://blog.naver.com/blogtalkyulll/222081601899",
+            "source": "kakao",
+            "local": "/app/static/photos/07_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "전주한지박물관 한지 만들기",
+          "note": "전통 한지 제작 과정을 직접 체험하기",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/6uxLCVH6doV",
+            "full": "http://cfile233.uf.daum.net/image/03265E375176214D26D675",
+            "page": "https://cafe.daum.net/tourbloger/p0qC/9",
+            "source": "kakao",
+            "local": "/app/static/photos/07_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "전주남부시장 야시장 구경",
+          "note": "저녁 시장에서 다양한 길거리 음식 맛보기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/4SodoocJciE",
+            "page": "http://blog.naver.com/son3355827/221178511026",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAxODAxMDVfMjU1/MDAxNTE1MTMwMzYwNDI4.0uuqB7IHGpmfpFogAV5eFAs2MNAeOrmxxQqJuW-NXMkg.UVl38Q3END8sqB3TWFSx5U0KcJDdXLFiGq6vDDJVtWgg.JPEG.son3355827/image_409488221515129981321.jpg?type=w966",
+            "local": "/app/static/photos/07_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "대구",
+      "lon": 128.6,
+      "lat": 35.87,
+      "places": [
+        {
+          "name": "서문시장",
+          "note": "먹거리와 상점이 가득한 전통시장",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/FMDupAzG5a6",
+            "page": "https://cafe.daum.net/naitocheongsol/HX8Z/4192",
+            "source": "kakao",
+            "full": "https://img1.daumcdn.net/relay/cafe/original/?fname=http%3A%2F%2Fstatic.hubzum.zumst.com%2Fhubzum%2F2018%2F12%2F11%2F13%2Fda0ac8470ee5454e90c50b337ee0bee4_0x1800c.jpg",
+            "local": "/app/static/photos/08_p1.jpg",
+            "low": true
+          }
+        },
+        {
+          "name": "김광석 다시그리기길",
+          "note": "벽화와 음악을 즐기는 골목",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/B5U8wQWWEpG",
+            "page": "https://v.daum.net/v/20260922155248294",
+            "source": "kakao",
+            "full": "https://t1.daumcdn.net/news/202609/22/pressian/20260922155249981fztj.jpg",
+            "local": "/app/static/photos/08_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "앞산전망대",
+          "note": "대구 시내를 내려다보는 전망 명소",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/CpBMJk0tgIR",
+            "page": "https://cafe.daum.net/bikemania/CO9/43083",
+            "source": "kakao",
+            "full": "http://cfile286.uf.daum.net/image/22478F4E56132E03353E29",
+            "local": "/app/static/photos/08_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "대구 막창",
+          "note": "고소하게 구워 먹는 대구 별미",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/54RcLkUkdEe",
+            "page": "https://cafe.daum.net/Rhdnanftkfkd/O65s/1745",
+            "source": "kakao",
+            "full": "https://t1.daumcdn.net/cafeattach/1BCTb/835d86fe622e862116f8eb73e6c7fd471df93c1a",
+            "local": "/app/static/photos/08_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "동인동 찜갈비",
+          "note": "매콤한 양념이 특징인 갈비찜",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/7WfrUJ1It5t",
+            "page": "https://economixnews.tistory.com/1858",
+            "source": "kakao",
+            "full": "https://blog.kakaocdn.net/dn/suxCD/btsOBpDVGxx/nfUqvJjGr1sUnZRqWsEWrK/img.jpg",
+            "local": "/app/static/photos/08_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "따로국밥",
+          "note": "밥과 국을 따로 내는 향토 음식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ttaro_gukbap_2.JPG/500px-Ttaro_gukbap_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Ttaro_gukbap_2.JPG",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ttaro_gukbap_2.JPG/500px-Ttaro_gukbap_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/08_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "대구 근대골목 투어",
+          "note": "골목을 걸으며 근대사를 만나는 여행",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/LJq7Es2Lf84",
+            "page": "https://cp.news.search.daum.net/p/130151253",
+            "source": "kakao",
+            "full": "http://dk.breaknews.com/imgdata/dk_breaknews_com/202303/2023031632043940.jpg",
+            "local": "/app/static/photos/08_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "팔공산 케이블카 탑승",
+          "note": "케이블카에서 산 풍경 감상하기",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/2YCyxW7NNuX",
+            "full": "https://blog.kakaocdn.net/dn/Sh3xL/btsKYxFQZ5i/zlqjxk6VPxUqQWy66gDCBK/img.jpg",
+            "page": "https://heo9518.tistory.com/8396301",
+            "source": "kakao",
+            "local": "/app/static/photos/08_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "수성못 산책",
+          "note": "호숫가를 따라 여유롭게 걷기",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/GbF300eSpC3",
+            "full": "https://thumb.kakaocdn.net/dna/kamp/source/rvvczyasxh1bld39ktn7tv7t1/thumbs/4.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&expires=33261279837&signature=BMcTCGwVxqHJB4FTBKO4BFxVvVg%3D",
+            "page": "https://cafe.daum.net/jinwooh/DCru/4228",
+            "source": "kakao",
+            "local": "/app/static/photos/08_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "경주",
+      "lon": 129.21,
+      "lat": 35.83,
+      "places": [
+        {
+          "name": "불국사",
+          "note": "석가탑과 다보탑을 만나는 사찰",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/D769XBwKDsI",
+            "page": "https://kchongsu13.tistory.com/4798",
+            "source": "kakao",
+            "full": "https://blog.kakaocdn.net/dn/4s8Gf/btsQiWUDMKn/6WTrp2KSWAaAYotekTqkj1/img.jpg",
+            "local": "/app/static/photos/09_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "동궁과 월지",
+          "note": "연못에 비친 야경이 아름다운 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg/500px-Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg/500px-Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/09_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "대릉원",
+          "note": "신라 왕릉 사이를 걷기 좋은 곳",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%EB%8C%80%EB%A6%89%EC%9B%90_%282%29.jpg/500px-%EB%8C%80%EB%A6%89%EC%9B%90_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EB%8C%80%EB%A6%89%EC%9B%90_(2).jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%EB%8C%80%EB%A6%89%EC%9B%90_%282%29.jpg/500px-%EB%8C%80%EB%A6%89%EC%9B%90_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/09_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "황남빵",
+          "note": "팥소가 가득한 경주의 대표 간식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Hwangnam_bread.JPG/500px-Hwangnam_bread.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Hwangnam_bread.JPG",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Hwangnam_bread.JPG/500px-Hwangnam_bread.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/09_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "교리김밥",
+          "note": "달걀지단이 풍성한 경주식 김밥",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/DBf8RenVQeQ",
+            "page": "http://blog.naver.com/kgoods77/223740136884",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyNTAxMjdfMzEg/MDAxNzM3OTY0OTg1NzYx.eeFJmMW4eMWsohuA4d82TuxKBUdrAZ3606pSDwvxAhAg.WhsdBBDRO0QKy_cB8mbWsHH6AksC9dqMq3ZNYiNVyWIg.PNG/image.png?type=w386",
+            "local": "/app/static/photos/09_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "경주 쌈밥",
+          "note": "여러 반찬을 채소에 싸 먹는 한 상",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/K3oBOOzXu24",
+            "full": "https://postfiles.pstatic.net/MjAyNDEwMzBfMTE3/MDAxNzMwMjUwMzczMzQx.wey-0Wkl5hM6v6CYNnt9TInIrHGNjNhRqlKZReMPtP0g.wFxVUOq6YpMZt2F7cnyf1jhJG1oaZyAAKb3P3vLiOXgg.JPEG/output_3484506886.jpg?type=w966",
+            "page": "http://blog.naver.com/hhm6725/223639386148",
+            "source": "kakao",
+            "local": "/app/static/photos/09_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "황리단길 산책",
+          "note": "한옥 골목의 가게들을 둘러보기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/2MXtB6P8VBD",
+            "full": "https://blog.kakaocdn.net/dn/exI4KW/btsNJI5GGMf/HU37hleGFokZzzYIKXRZUK/img.jpg",
+            "page": "https://campingenjoy.tistory.com/1252",
+            "source": "kakao",
+            "local": "/app/static/photos/09_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "월정교 야경 감상",
+          "note": "조명이 켜진 다리를 따라 걷기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/ImkR3mr6KpC",
+            "page": "http://blog.naver.com/moomyungam/222091908513",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyMDA5MTdfNTIg/MDAxNjAwMzEzMzY4ODQw.XPwixtTNKlmDnHQjbw7byq8pNWMs_YnKUK16RPbrQTYg.9ORkyEGEVsDnG5yXUCqV-C0-dsdpq3CFkQmMATG9iF8g.JPEG.moomyungam/20180406_195248.jpg?type=w966",
+            "local": "/app/static/photos/09_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "국립경주박물관 관람",
+          "note": "신라 유물을 가까이에서 살펴보기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/9cempBzUNNk",
+            "page": "https://cafe.daum.net/hksjsl1247/WFvS/179",
+            "source": "kakao",
+            "full": "https://t1.daumcdn.net/cafeattach/1PuUJ/35730284a9690d25bdff9ad7aa384144d6ec3b5d",
+            "local": "/app/static/photos/09_a3.jpg",
+            "low": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "부산",
+      "lon": 129.08,
+      "lat": 35.18,
+      "places": [
+        {
+          "name": "감천문화마을",
+          "note": "골목마다 벽화와 바다 전망이 펼쳐져요",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg/500px-Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg/500px-Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/10_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "해운대해수욕장",
+          "note": "넓은 백사장을 따라 산책하기 좋아요",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Haeundae_Beach_in_Busan.jpg/500px-Haeundae_Beach_in_Busan.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Haeundae_Beach_in_Busan.jpg/500px-Haeundae_Beach_in_Busan.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9A%B4%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/10_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "태종대",
+          "note": "해안 절벽과 탁 트인 바다를 만나요",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Korea-Busan-Taejongdae-03.jpg/500px-Korea-Busan-Taejongdae-03.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Korea-Busan-Taejongdae-03.jpg/500px-Korea-Busan-Taejongdae-03.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%A2%85%EB%8C%80",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/10_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "돼지국밥",
+          "note": "진한 국물에 돼지고기를 곁들인 음식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5.jpg/500px-%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5.jpg/500px-%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/10_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "밀면",
+          "note": "시원한 육수로 즐기는 부산식 면 요리",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Milmyeon.jpg/500px-Milmyeon.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Milmyeon.jpg/500px-Milmyeon.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EB%B0%80%EB%A9%B4",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/10_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "씨앗호떡",
+          "note": "견과류가 듬뿍 들어간 달콤한 간식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%EC%94%A8%EC%95%97%ED%98%B8%EB%96%A1.jpg/500px-%EC%94%A8%EC%95%97%ED%98%B8%EB%96%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EC%94%A8%EC%95%97%ED%98%B8%EB%96%A1.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%EC%94%A8%EC%95%97%ED%98%B8%EB%96%A1.jpg/500px-%EC%94%A8%EC%95%97%ED%98%B8%EB%96%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/10_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "해운대 블루라인파크 해변열차",
+          "note": "열차를 타고 해안 풍경을 감상해요",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/DSvryE6t2Nh",
+            "full": "https://postfiles.pstatic.net/MjAyMjAxMjhfMTE0/MDAxNjQzMzU5MTg4NjEx.cMIDS16mwBHtnOhyN3G81oxRhsYQ2va5kpe1NIWFxY0g.JkpdWY6FTIEEjTcBB-_X6FWtxQ8sxBTh49510Gpp2p4g.JPEG.uni7741/013.JPG?type=w966",
+            "page": "http://blog.naver.com/uni7741/222634282877",
+            "source": "kakao",
+            "local": "/app/static/photos/10_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "송도해상케이블카",
+          "note": "바다 위를 지나며 송도 풍경을 즐겨요",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/8QVdHlXv0UF",
+            "page": "https://cafe.daum.net/goturkey/cJw/29127",
+            "source": "kakao",
+            "full": "http://scrap.kakaocdn.net/dn/4M8zK/bl4PDjNOIHg/lrrs08KjkkkzRu2AT4vfHk/kakaolink40_original.jpg?width=743&height=495",
+            "local": "/app/static/photos/10_a2.jpg",
+            "low": true
+          }
+        },
+        {
+          "name": "광안리 SUP 체험",
+          "note": "패들보드를 타고 바다 위를 누벼요",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/DfHYlq2AYY6",
+            "page": "https://tomorrowcheckin.tistory.com/371",
+            "source": "kakao",
+            "full": "https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2024/11/27/KqWR/HiplD80Rf6.jpg",
+            "local": "/app/static/photos/10_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "여수",
+      "lon": 127.66,
+      "lat": 34.76,
+      "places": [
+        {
+          "name": "오동도",
+          "note": "동백나무 숲길과 바다를 함께 걷는 섬",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/500px-Yeosu_Odongdo_20180929_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/500px-Yeosu_Odongdo_20180929_002.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8F%99%EB%8F%84",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/11_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "향일암",
+          "note": "바다 위로 떠오르는 일출이 아름다운 암자",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG/500px-The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG/500px-The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/11_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "이순신광장",
+          "note": "여수 구도심을 둘러보기 좋은 광장",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/9yx0SXC8SEu",
+            "full": "https://postfiles.pstatic.net/MjAxOTAyMDFfMjg3/MDAxNTQ4OTg1ODQxODQy.cza1Bne13srlqa3ACai6hjuWqWqdSjJUd_vAwxF2eVgg.nfF2V2y0pmV6nbt26uA1f1tOVJpauc3IQ3ac0H-GiVAg.JPEG.kofoto/_GNG3561.jpg?type=w966",
+            "page": "http://blog.naver.com/kofoto/221456274681",
+            "source": "kakao",
+            "local": "/app/static/photos/11_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "돌게장",
+          "note": "돌게에 양념을 더한 여수의 별미",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/ILxJfowYnaq",
+            "full": "https://blog.kakaocdn.net/dn/bm6QGg/btsMLXvOg5S/Qzcd1WUd4jH93KqydgriI1/img.jpg",
+            "page": "https://d-shot.tistory.com/113",
+            "source": "kakao",
+            "local": "/app/static/photos/11_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "서대회무침",
+          "note": "서대를 새콤매콤하게 무친 향토 음식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Korean_cuisine-_flat_fish_hoe%28sashimi%29_Yeosu_2015-08-13.jpg/500px-Korean_cuisine-_flat_fish_hoe%28sashimi%29_Yeosu_2015-08-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-_flat_fish_hoe(sashimi)_Yeosu_2015-08-13.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Korean_cuisine-_flat_fish_hoe%28sashimi%29_Yeosu_2015-08-13.jpg/500px-Korean_cuisine-_flat_fish_hoe%28sashimi%29_Yeosu_2015-08-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/11_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "돌산갓김치",
+          "note": "알싸한 갓의 풍미가 살아 있는 김치",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/2CeNFAC5FNN",
+            "full": "https://blog.kakaocdn.net/dn/ccW2M4/btsIiQtbm9M/JJBfKLlhoEKHqrocTP5KPK/img.jpg",
+            "page": "https://koojaoon.tistory.com/8599",
+            "source": "kakao",
+            "local": "/app/static/photos/11_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "여수 해상케이블카 탑승",
+          "note": "바다 위에서 여수 풍경을 감상하는 체험",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/CTJ9JfsZLDg",
+            "full": "https://blog.kakaocdn.net/dn/JfVwQ/btsPlgsuEW4/6twPFCeKiILITsSqqEX0n0/img.jpg",
+            "page": "https://105khk.tistory.com/924",
+            "source": "kakao",
+            "local": "/app/static/photos/11_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "여수밤바다 유람선 탑승",
+          "note": "배를 타고 밤바다와 야경을 즐기는 체험",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/J1AwZJuZJiH",
+            "page": "http://blog.naver.com/mainsource/222797049212",
+            "source": "kakao",
+            "full": "https://postfiles.pstatic.net/MjAyMjA2MzBfOTQg/MDAxNjU2NTk5MzgyNzcx.m4-N1Koaw-XN-4Tk805loLue72lFmeqFN1VjtDCMxd4g.0Ss6USujxxsm5OjmwL46Jm4S4ltffocqWaDls191QZMg.JPEG.mainsource/SE-77B44781-EF64-4387-91F6-7460D4053ECF.jpg?type=w773",
+            "local": "/app/static/photos/11_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "아쿠아플라넷 여수 관람",
+          "note": "다양한 해양 생물을 가까이서 만나는 체험",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/1U4OK2t7oVi",
+            "full": "https://t1.daumcdn.net/news/202505/02/ned/20250502115546439ptwp.jpg",
+            "page": "https://v.daum.net/v/20250502115546548",
+            "source": "kakao",
+            "local": "/app/static/photos/11_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "제주",
+      "lon": 126.53,
+      "lat": 33.5,
+      "places": [
+        {
+          "name": "성산일출봉",
+          "note": "정상에서 제주 동쪽 바다와 일출을 감상",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/%EC%A0%9C%EC%A3%BC_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_7.jpg/500px-%EC%A0%9C%EC%A3%BC_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EC%A0%9C%EC%A3%BC_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_7.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/%EC%A0%9C%EC%A3%BC_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_7.jpg/500px-%EC%A0%9C%EC%A3%BC_%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/12_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "한라산국립공원",
+          "note": "계절마다 달라지는 산길 풍경이 매력",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/500px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/500px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/12_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "협재해수욕장",
+          "note": "맑은 바다와 비양도가 보이는 해변",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyeopjae_Beach_Scenery.jpg/500px-Hyeopjae_Beach_Scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Hyeopjae_Beach_Scenery.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyeopjae_Beach_Scenery.jpg/500px-Hyeopjae_Beach_Scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/12_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "고기국수",
+          "note": "돼지고기 육수를 쓴 제주의 국수",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Gogi-guksu_2024.jpg/500px-Gogi-guksu_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:Gogi-guksu_2024.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Gogi-guksu_2024.jpg/500px-Gogi-guksu_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/12_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "갈치조림",
+          "note": "갈치를 매콤한 양념에 졸인 음식",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/9FhMLt2lfgU",
+            "full": "https://postfiles.pstatic.net/MjAyNjAyMDJfMTY3/MDAxNzcwMDIwMDkyMjEy.UnU71HqVbKmpnyN4LA2OLHJheqBXsuv1okQsQ8z4vk8g.tN-Dnt2BYxdPtUxWWEEITpjLAK2ZD5xW822ZFq5a_wQg.JPEG/21.JPG?type=w966",
+            "page": "http://blog.naver.com/partygombrush/224168961132",
+            "source": "kakao",
+            "local": "/app/static/photos/12_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "오메기떡",
+          "note": "차조 반죽에 팥고물을 묻힌 향토 떡",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%98%A4%EB%A9%94%EA%B8%B0%EB%96%A1_%EC%A0%95%EB%A9%B4.jpg/500px-%EC%98%A4%EB%A9%94%EA%B8%B0%EB%96%A1_%EC%A0%95%EB%A9%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "page": "https://commons.wikimedia.org/wiki/File:%EC%98%A4%EB%A9%94%EA%B8%B0%EB%96%A1_%EC%A0%95%EB%A9%B4.jpg",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%98%A4%EB%A9%94%EA%B8%B0%EB%96%A1_%EC%A0%95%EB%A9%B4.jpg/500px-%EC%98%A4%EB%A9%94%EA%B8%B0%EB%96%A1_%EC%A0%95%EB%A9%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "local": "/app/static/photos/12_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "제주올레 7코스 걷기",
+          "note": "서귀포 해안 풍경을 따라 걷는 길",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/DtvJR6HjHeQ",
+            "full": "http://cfile248.uf.daum.net/image/146E783D4D4CB81C16E1A5",
+            "page": "https://cafe.daum.net/welove23/SIaC/49",
+            "source": "kakao",
+            "local": "/app/static/photos/12_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "우도 자전거 일주",
+          "note": "자전거로 섬 곳곳의 바다를 둘러보기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/H3NsEEvZG63",
+            "full": "https://t1.daumcdn.net/cfile/tistory/2130D43555CC396411",
+            "page": "https://fkisocial.tistory.com/3043",
+            "source": "kakao",
+            "local": "/app/static/photos/12_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "서귀포잠수함 체험",
+          "note": "잠수함 창으로 바닷속 풍경 관찰하기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/9RsIRUNB6b5",
+            "full": "https://t1.daumcdn.net/cafeattach/rjvj/6b64ac34749cce55378789390fa01cd1125b0825",
+            "page": "https://cafe.daum.net/kn3040/5qzX/441",
+            "source": "kakao",
+            "local": "/app/static/photos/12_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "춘천",
+      "lon": 127.73,
+      "lat": 37.88,
+      "places": [
+        {
+          "name": "소양강 스카이워크",
+          "note": "소양강 위로 걷는 투명 유리 보행교",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/EYAimcn5EZN",
+            "full": "https://blog.kakaocdn.net/dn/Zcby5/dJMcagzrOfV/JzUbSIrdXnEwYlEyZkZx3K/img.jpg",
+            "page": "https://wu-young.tistory.com/15859856",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/13_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "남이섬",
+          "note": "메타세쿼이아 길로 유명한 강 위의 섬",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/K5FiSqBf8m6",
+            "full": "https://blog.kakaocdn.net/dn/bcQAOC/btrMJkkgbVq/llD1K5vr4ygOjBuFpx2exK/img.jpg",
+            "page": "https://hoteltrend.tistory.com/2572",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/13_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "김유정문학촌",
+          "note": "소설가 김유정의 생가와 전시관",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/KVJkUBLc5QI",
+            "full": "http://cfile218.uf.daum.net/image/2306294B5737E6F32F2AFC",
+            "page": "https://cafe.daum.net/rtpeace/H7Ne/5499",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/13_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "춘천 닭갈비",
+          "note": "철판에 매콤하게 볶아 내는 대표 음식",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Korean_cuisine-Dakgalbi-01.jpg/960px-Korean_cuisine-Dakgalbi-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Korean_cuisine-Dakgalbi-01.jpg/960px-Korean_cuisine-Dakgalbi-01.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EB%8B%AD%EA%B0%88%EB%B9%84",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/13_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "춘천 막국수",
+          "note": "시원한 육수에 비벼 먹는 메밀 국수",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/20lRqKug7Vk",
+            "full": "https://blog.kakaocdn.net/dn/bkyQtF/btsJlwtQhja/OL9H5Kh4JrKa0OXBVhUubK/img.jpg",
+            "page": "https://a.unni1000.com/23",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/13_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "춘천 감자빵",
+          "note": "감자 앙금을 넣은 고소한 빵",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/JrRsYCShj9z",
+            "full": "https://t1.daumcdn.net/news/202511/26/joongang/20251126051946885akjm.jpg",
+            "page": "https://v.daum.net/v/20251125122648425",
+            "source": "kakao image (중앙일보)",
+            "local": "/app/static/photos/13_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "김유정 레일바이크",
+          "note": "옛 철길을 따라 페달을 밟는 체험",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/6xm2HTZiPPl",
+            "full": "https://postfiles.pstatic.net/MjAyNjA0MTdfMjA2/MDAxNzc2NDI0MzQ3NzE0.cEI1T4ohRZk91Zlkp0x5s13gxnaFM5bRqSXXTHY42Pgg.ycq25ssczuWNF4ILCkuyi60UQb9Luz7BftWoLkjqDVUg.JPEG/ea4a1b73-d153-49f8-b280-ae17750d7857.jpg?type=w966",
+            "page": "http://blog.naver.com/infocul001/224256101090",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/13_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "레고랜드 코리아",
+          "note": "하중도에 있는 레고 테마파크",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/20231226_%EB%A0%88%EA%B3%A0%EB%9E%9C%EB%93%9C%EC%BD%94%EB%A6%AC%EC%95%84_%EC%A0%95%EB%AC%B8_%EC%A0%84%EA%B2%BD.jpg/960px-20231226_%EB%A0%88%EA%B3%A0%EB%9E%9C%EB%93%9C%EC%BD%94%EB%A6%AC%EC%95%84_%EC%A0%95%EB%AC%B8_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/20231226_%EB%A0%88%EA%B3%A0%EB%9E%9C%EB%93%9C%EC%BD%94%EB%A6%AC%EC%95%84_%EC%A0%95%EB%AC%B8_%EC%A0%84%EA%B2%BD.jpg/960px-20231226_%EB%A0%88%EA%B3%A0%EB%9E%9C%EB%93%9C%EC%BD%94%EB%A6%AC%EC%95%84_%EC%A0%95%EB%AC%B8_%EC%A0%84%EA%B2%BD.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EB%A0%88%EA%B3%A0%EB%9E%9C%EB%93%9C_%EC%BD%94%EB%A6%AC%EC%95%84_%EB%A6%AC%EC%A1%B0%ED%8A%B8",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/13_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "공지천 산책",
+          "note": "호수를 따라 걷는 가벼운 산책길",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/DRD8aoiWSCH",
+            "full": "https://postfiles.pstatic.net/MjAyMjA1MTJfMjY1/MDAxNjUyMzQwNjIzNTc1.ZvxoJMjzf3RmIopMLO0IpF3Azs4tWVxCBd56ezj0ndgg.YERgtSGV1maRYZu2DShcsx7KtRijafK9Lky82qv8M9Qg.JPEG.tnwlsdl702/0F4A6972.jpg?type=w966",
+            "page": "http://blog.naver.com/tnwlsdl702/222730257949",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/13_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "태안",
+      "lon": 126.3,
+      "lat": 36.75,
+      "places": [
+        {
+          "name": "꽃지해수욕장 할미할아비바위",
+          "note": "노을 명소로 알려진 두 바위",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/BF4PL26iS7X",
+            "full": "https://blog.kakaocdn.net/dn/bfiHGO/btsOYcweUc1/sMkEoYooQjqaF3OYc7pGB0/img.jpg",
+            "page": "https://ikje1225.tistory.com/96",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/14_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "안면암 부상탑",
+          "note": "바다 위에 뜬 듯한 탑이 있는 암자",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/BlIjAo023WT",
+            "full": "https://t1.daumcdn.net/cafeattach/1YtnN/6b669733f500024c007833035f3b6f92ea1cca42",
+            "page": "https://cafe.daum.net/jtk7185/Bc7N/1733",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/14_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "천리포수목원",
+          "note": "바닷가 숲에 가꾼 사계절 수목원",
+          "photo": {
+            "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6c/%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "page": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EB%A6%AC%ED%8F%AC%EC%88%98%EB%AA%A9%EC%9B%90",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/14_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "태안 꽃게장",
+          "note": "짭조름하게 담근 서해 꽃게",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/jRQPw6YO5L",
+            "full": "https://blog.kakaocdn.net/dn/dW61ex/dJMcadIme31/lBdyLWyyC6viYp6yEU3gGK/img.png",
+            "page": "https://hyeryun79.tistory.com/23",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/14_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "안면도 대하구이",
+          "note": "가을 제철 대하를 구워 먹는 음식",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/JiAzJ7hIQlg",
+            "full": "https://blog.kakaocdn.net/dn/bDCAEH/dJMcaihYt3p/49ImDRCtEOHYim83DxtFkk/img.jpg",
+            "page": "https://tteor.tistory.com/14",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/14_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "태안 우럭젓국",
+          "note": "우럭을 넣은 맑은 젓국 요리",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/D8zYcFrD8ts",
+            "full": "https://postfiles.pstatic.net/MjAyNjA0MjhfNTQg/MDAxNzc3MzYyNDE5OTA3.R_8uAdavv8va4dx458Sy0k62C0vJJToVohm9-vB3uYAg.N1HCzjuGg8t243ZYP3VTBxVeyJfEDzhYyvskoeMFNMwg.JPEG/900_Screenshot_20260428_163921_Instagram.jpg?type=w773",
+            "page": "http://blog.naver.com/brjang71/224268143659",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/14_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "신두리 해안사구 탐방",
+          "note": "바람이 만든 모래 언덕 걷기",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/7hSSR4gos4O",
+            "full": "https://blog.kakaocdn.net/dn/lhIeW/btsI5UhT20u/a1wH5cOalOtB9cz0Y0r37k/img.jpg",
+            "page": "https://family-all.tistory.com/11295474",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/14_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "태안 해변길 트레킹",
+          "note": "해안을 따라 이어지는 걷기 길",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/BdThXoqtJzr",
+            "full": "https://t1.daumcdn.net/cafeattach/1RNid/0173a37e511a4c471921f53e76af6824ad7710ff",
+            "page": "https://cafe.daum.net/wkj57/FFKn/11278",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/14_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "안면도 자연휴양림 숲길",
+          "note": "소나무 숲을 걷는 산책",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/I5D1opRUdMw",
+            "full": "https://t1.daumcdn.net/cafeattach/1JV4s/1ce2d4cfe96460fa8064ff70d3058215a820b4d1",
+            "page": "https://cafe.daum.net/kimcheonbareun/CNuX/955",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/14_a3.jpg",
+            "low": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "단양",
+      "lon": 128.37,
+      "lat": 36.98,
+      "places": [
+        {
+          "name": "도담삼봉",
+          "note": "남한강 위에 솟은 세 개의 봉우리",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/AM9GnNoDweg",
+            "full": "http://pds27.cafe.daum.net/download.php?grpid=16fSm&fldid=9mIe&dataid=7&fileid=2&regdt=&disk=2&grpcode=eomdachoi&dncnt=N&.jpg",
+            "page": "https://cafe.daum.net/eomdachoi/9mIe/7",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/15_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "만천하스카이워크",
+          "note": "절벽 위로 길게 뻗은 전망대",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/IStFGYhUT42",
+            "full": "https://t1.daumcdn.net/cafeattach/wrsH/f33a2868efbfe4721da260713524ede00e9d1d02",
+            "page": "https://cafe.daum.net/purunsanak/OvjB/758",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/15_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "고수동굴",
+          "note": "종유석이 이어지는 석회 동굴",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/960px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/960px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/15_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "단양 마늘정식",
+          "note": "단양 마늘로 차려 낸 한 상",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/GlFDMo1P1nC",
+            "full": "http://i2.media.daumcdn.net/svc/image/U03/news/201504/30/donga/20150430030506358.jpg",
+            "page": "https://v.daum.net/v/20150430030513318",
+            "source": "kakao image (동아일보)",
+            "local": "/app/static/photos/15_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "단양 마늘만두",
+          "note": "구경시장에서 맛보는 마늘 향 만두",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/KK9LIdYuodg",
+            "full": "https://blog.kakaocdn.net/dn/tHTRF/btrKGpWezJF/Y9NzDYN9Wj1hfKly2QKtM1/img.jpg",
+            "page": "https://jimcongcong.tistory.com/299",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/15_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "단양 올갱이해장국",
+          "note": "구수한 국물의 올갱이 국",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/1WU8blgdWce",
+            "full": "https://postfiles.pstatic.net/MjAyNDA1MzBfMTYz/MDAxNzE3MDQxNjYzMjE0.8i-CqFgYceeUUh-QuXQz9dO2hA0590v8tgVSEQ72KoIg.WJQjA_Ntifh1PGZmdFHC-kZ18x3vBng7DUa9gCjncKAg.JPEG/20240325_150251(0).jpg?type=w466",
+            "page": "http://blog.naver.com/nanaii01/223463356582",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/15_f3.jpg",
+            "low": true
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "양방산 패러글라이딩",
+          "note": "남한강을 내려다보며 하늘을 나는 체험",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/EmZjKT9RHpF",
+            "full": "http://cfile235.uf.daum.net/image/273FED35558224F615BF88",
+            "page": "https://cafe.daum.net/hssn2710/HSAu/104",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/15_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "단양강 잔도 걷기",
+          "note": "절벽을 따라 만든 데크 길",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/5UjxGgi5QRp",
+            "full": "https://blog.kakaocdn.net/dn/k4lh4/btrJTPhpgUC/ydj6BKsVcy4TxDQK12vqgK/img.jpg",
+            "page": "https://invitetour.tistory.com/2071",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/15_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "구담봉 트레킹",
+          "note": "충주호를 내려다보는 등산 코스",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/AdMycRh6mv9",
+            "full": "https://t1.daumcdn.net/cfile/cafe/99CB9C505B97D92222",
+            "page": "https://adol2751.tistory.com/1739",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/15_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "안동",
+      "lon": 128.73,
+      "lat": 36.57,
+      "places": [
+        {
+          "name": "안동 하회마을",
+          "note": "전통 가옥이 남아 있는 세계유산 마을",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/G9nOKx1C5in",
+            "full": "https://t1.daumcdn.net/news/202610/10/yonhap/20261010080230667urky.jpg",
+            "page": "https://v.daum.net/v/20261010080230246",
+            "source": "kakao image (연합뉴스)",
+            "local": "/app/static/photos/16_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "도산서원",
+          "note": "퇴계 이황을 모신 서원",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/AIsWWWXC1Cv",
+            "full": "https://postfiles.pstatic.net/MjAxNzA5MDZfMTYg/MDAxNTA0NjYwNDI2OTQx.zzxcSZ2nLjPklHvOV_Ltkk8pgir2KxcQV3PNl0KzXHAg.bgunxqtx65EAKiZwCdQUUw7nWch6lmZSJ0V8qNfJqm0g.PNG.alfyoun/IMG_7064_1.png?type=w966",
+            "page": "http://blog.naver.com/alfyoun/221116356741",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/16_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "월영교",
+          "note": "낙동강 위의 긴 나무 인도교",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/52oT8VTYIFB",
+            "full": "https://postfiles.pstatic.net/MjAyNTAxMDZfMTEy/MDAxNzM2MTQ4ODI3ODAy.-gxZ0565ZDC7-jVaZ6QZXAwT3N-BXVYfbbnAK0ovMOkg.RrziQMtyLKObl2p152Lyi7umPh44FCQPi9Azffk7tY8g.JPEG/SE-95C07DC0-6EFD-4D4A-AB9A-8A519064F7EC.jpg?type=w773",
+            "page": "http://blog.naver.com/id_huieun/223717468562",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/16_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "안동 찜닭",
+          "note": "간장 양념에 당면을 넣은 찜 요리",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/9HHm8Ur8674",
+            "full": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fshop-phinf.pstatic.net%2F20231125_229%2F1700889132490V8fy1_JPEG%2F14603264378380376_2065746749.jpg%3Ftype%3Do1000%22&type=ff500_300",
+            "page": "http://blog.naver.com/tau__tou/223981737591",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/16_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "안동 간고등어",
+          "note": "소금으로 간한 고등어구이",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/7vgYYHoNzAb",
+            "full": "https://blog.kakaocdn.net/dn/cxWTh1/dJMcac5wSvH/ooknIJMkO4KJgrmsFhTdG1/img.jpg",
+            "page": "https://sorigarden.tistory.com/2735",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/16_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "안동 헛제삿밥",
+          "note": "제사 음식을 닮은 나물 비빔밥",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/7CXb1oSeiz9",
+            "full": "http://cfile272.uf.daum.net/image/141402194BCB190B478168",
+            "page": "https://cafe.daum.net/beautiful5060/Fngm/424",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/16_f3.jpg",
+            "low": true
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "하회별신굿탈놀이",
+          "note": "하회 탈춤 공연 관람",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/AheMxdxuAwZ",
+            "full": "https://t1.daumcdn.net/news/202005/11/pressian/20200511105506153jyku.jpg",
+            "page": "https://v.daum.net/v/20200511105506042",
+            "source": "kakao image (프레시안)",
+            "local": "/app/static/photos/16_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "월영교 야경 산책",
+          "note": "조명이 켜진 다리 위 저녁 산책",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/9VdjBFDnPEZ",
+            "full": "https://postfiles.pstatic.net/MjAyNTExMTlfNTYg/MDAxNzYzNTE3MTQyMDA0.B5FRxErYIlYHgLN-aaW3Dt0Ralh-eJDa-jYPKLnaGwUg.fbmmyEZRo3D7Qf62Dms-Iyshd45Bc93rCu7wrUIIrqIg.JPEG/IMG%EF%BC%BF8159.jpg?type=w580",
+            "page": "http://blog.naver.com/87_12_18/224080869730",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/16_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "부용대 전망 오르기",
+          "note": "하회마을을 내려다보는 언덕",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/BmnM9kN7hfV",
+            "full": "https://postfiles.pstatic.net/MjAyNjA3MTdfMTcg/MDAxNzg0MjU1NzExMDg3.y43bw2hdYrIfSEyIaFALPH8erpMDi3hhQCOalNDwlNsg.cnANLoAsKs9q5NKveyKG3wgyiXR37aI63gNVzCSzyn8g.JPEG/SE-0baba565-22e2-4f5c-8368-048e8eadb384.jpg?type=w580",
+            "page": "http://blog.naver.com/alside_mtm/224349281885",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/16_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "통영",
+      "lon": 128.43,
+      "lat": 34.85,
+      "places": [
+        {
+          "name": "동피랑 벽화마을",
+          "note": "언덕을 따라 벽화가 이어지는 마을",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/2wH3OMKA4sa",
+            "full": "https://t1.daumcdn.net/cafeattach/1Uw0G/27edeb42f281b92d24ee9b114b422c3c05434c08",
+            "page": "https://cafe.daum.net/walkandtalk1004/f2mw/14",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/17_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "통영 케이블카",
+          "note": "미륵산 정상에서 한려수도 조망",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tongyeong_Cable_Car.jpg/960px-Tongyeong_Cable_Car.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tongyeong_Cable_Car.jpg/960px-Tongyeong_Cable_Car.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%98%81_%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/17_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "이순신공원",
+          "note": "바다를 내려다보는 해안 공원",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/r45v0FuTIE",
+            "full": "http://cfile223.uf.daum.net/image/192D2F0D4AF885B0483D78",
+            "page": "https://cafe.daum.net/sjlee5/BlOY/34",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/17_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "충무김밥",
+          "note": "꼴뚜기무침과 함께 먹는 통영 김밥",
+          "photo": {
+            "thumb": "https://upload.wikimedia.org/wikipedia/ko/f/f2/%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "full": "https://upload.wikimedia.org/wikipedia/ko/f/f2/%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "page": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EB%AC%B4%EA%B9%80%EB%B0%A5",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/17_f1.jpg",
+            "low": true
+          }
+        },
+        {
+          "name": "통영 굴",
+          "note": "겨울 제철 굴 요리",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/JH4hXiX4ATV",
+            "full": "https://postfiles.pstatic.net/20131129_231/suny7065_1385722814291ht9ue_JPEG/%C5%EB%BF%B5%B1%BC%B8%C0%C0%D6%B4%C2%C1%FD_%BC%D2%B0%B3_%C5%EB%BF%B5%BF%A1%BC%AD_%B1%BC%B8%C0%C0%D6%B4%C2%C1%FD_%C7%CF%B8%E9_%C5%EB%BF%B5%B8%ED%B0%A1_%2811%29.jpg?type=w1",
+            "page": "http://blog.naver.com/suny7065/70180183889",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/17_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "통영 꿀빵",
+          "note": "팥소를 넣은 달콤한 튀김 빵",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/C5ux7HGyMmQ",
+            "full": "https://postfiles.pstatic.net/MjAyNTA0MTRfNTMg/MDAxNzQ0NjIwMTI5MjM0.Yqt9Lum17P2lSWS36V1MSPY9-QuBuiGttbkyI_dinM4g.zdszVanrH6H1Ej_EEWKiP6D5f397klL_k2fx6Or1pe8g.PNG/%ED%86%B5%EC%98%81_%EA%BF%80%EB%B9%B5%EF%BC%BF20250414%EF%BC%BF174044%EF%BC%BF0000.png?type=w966",
+            "page": "http://blog.naver.com/boa756/223832937171",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/17_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "통영 스카이라인 루지",
+          "note": "산 위 트랙을 달리는 루지",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/GxFKsJiqu40",
+            "full": "http://t1.daumcdn.net/news/201703/02/ilgansports/20170302070058918joks.jpg",
+            "page": "https://v.daum.net/v/20170302070101598",
+            "source": "kakao image (일간스포츠)",
+            "local": "/app/static/photos/17_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "한려수도 유람선",
+          "note": "섬 사이를 도는 바다 유람",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/4YLqYEMCNq2",
+            "full": "https://postfiles.pstatic.net/MjAyNTA2MDVfMTYw/MDAxNzQ5MDgyMjQxMDk4.JZg2admLQSEFq5sDGwzpDklPOgDkNkdMUCdhNPBZxCEg.lrBfxhIPUVQoRTEr03-zjRIonmaHDj2yZ_6MF_5dFzwg.JPEG/KakaoTalk_20250605_083936712.jpg?type=w966",
+            "page": "http://blog.naver.com/p-misook/223889223415",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/17_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "소매물도 등대섬 트레킹",
+          "note": "배로 들어가는 섬 풍경",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/8kGFqJqlYBT",
+            "full": "https://blog.kakaocdn.net/dn/cd0voO/dJMcac90rZx/qXmlk7xt7QKWX2PNmJsZ7K/img.jpg",
+            "page": "https://rainbowmemories.tistory.com/2126",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/17_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "목포",
+      "lon": 126.39,
+      "lat": 34.81,
+      "places": [
+        {
+          "name": "유달산",
+          "note": "목포 시내와 바다가 보이는 산",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/Ef9aBEY0NmT",
+            "full": "https://blog.kakaocdn.net/dn/BhUwx/dJMcag0hgWl/gtxWcQsSkJwpG5V1ZNzi7K/img.jpg",
+            "page": "https://mirgim.tistory.com/13",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/18_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "목포 해상케이블카",
+          "note": "바다 위를 건너는 케이블카",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/2FBdjBBQ1e9",
+            "full": "https://postfiles.pstatic.net/MjAyNjA3MTlfMTU1/MDAxNzg0NDMyNTg0Njcx.b2ZF4qDWudhyW7DBdIHtWOWFCKMrSbbjYOkQ629SlI0g.ryF5r5W9fVw3AfOjz-rhz0CF8hAMAFv5QV25Bee7CI4g.JPEG/1-2-1-3-ad826e0719.jpg?type=w966",
+            "page": "http://blog.naver.com/seasonal-crossroads/224350922367",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/18_p2.jpg",
+            "low": true
+          }
+        },
+        {
+          "name": "갓바위",
+          "note": "파도가 빚은 갓 모양 바위",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/Hv1c4vSxuZp",
+            "full": "https://t1.daumcdn.net/cfile/blog/999E73335BE955201A",
+            "page": "https://dada6000.tistory.com/498",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/18_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "목포 홍어삼합",
+          "note": "홍어와 돼지고기, 김치를 함께 먹는 음식",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/KHwDXSz2Bw3",
+            "full": "https://postfiles.pstatic.net/MjAyNjAyMDZfNSAg/MDAxNzcwMzgyOTEwNjky.ScrZ-MIPuddfqQnzvBfEkVR_KzHorg-pkYukEfuAUG8g.oZ-u7UL-klZ9VgsWNH3aHLGCLLqN99nEPQDftul6hGIg.JPEG/900%EF%BC%BFScreenshot%EF%BC%BF20260206%EF%BC%BF214031%EF%BC%BFGallery.jpg?type=w966",
+            "page": "http://blog.naver.com/hcp0922/224174521714",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/18_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "목포 세발낙지",
+          "note": "가는 다리의 산낙지 요리",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/Hg84RTKU5fd",
+            "full": "https://t1.daumcdn.net/cafeattach/1XWfl/6281d35e8470ab9cd73ed58f487d5453b5a5b84a",
+            "page": "https://cafe.daum.net/subtropical/RXLn/163",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/18_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "목포 민어회",
+          "note": "여름 보양식으로 먹는 민어",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/1S0SpyA0rUU",
+            "full": "http://st.kakaocdn.net/shophow/p/V36819689380.jpg?ut=20260807102332",
+            "page": "https://store.kakao.com/becomerich/products/773953943",
+            "source": "kakao image (쇼핑하우)",
+            "local": "/app/static/photos/18_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "유달산 일등바위 등산",
+          "note": "정상 바위까지 오르는 산책",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/LwNd13hgIEW",
+            "full": "https://postfiles.pstatic.net/MjAyMTA1MTZfMjQy/MDAxNjIxMTYxMjU0NjUw.p47vFoD2fjHsIlHPg3dWqR4oYFFM0NxYQd87GIVM8vYg.47LB1T59g5tIUJ55mzn5SHk4A765e9N6eUXBByqWrLgg.JPEG.kigg4955/DSC_0121.JPG?type=w966",
+            "page": "http://blog.naver.com/kigg4955/222353503806",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/18_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "목포 근대역사문화공간 걷기",
+          "note": "옛 건물이 남은 거리 산책",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/2OyYT8z4gmp",
+            "full": "https://images.openai.com/static-rsc-4/D9JmdFIP9bgYGQWSM9ZrBlysn68zkplScy6tNXDE4LaKypJQ4jESHckzIC-WoQ0G3ynY0Bfpg-V9kHywT5IXkTr5lwpBSjsFKnqj0uI6o19UTHUJjf_Lwq-ej8o15ae8G-npWMlBPykHjdqSfnq0kMAeB3Cj9sMbwjvkI4le_0k?purpose=inline",
+            "page": "http://blog.naver.com/appa0364/224436541091",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/18_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "고하도 해안 데크길",
+          "note": "섬 해안을 따라 걷는 길",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/FcUoR2JU8jO",
+            "full": "https://t1.daumcdn.net/news/201911/08/ned/20191108152720090tcna.jpg",
+            "page": "https://v.daum.net/v/20191108152719380",
+            "source": "kakao image (헤럴드경제)",
+            "local": "/app/static/photos/18_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "영덕",
+      "lon": 129.37,
+      "lat": 36.41,
+      "places": [
+        {
+          "name": "영덕 해맞이공원",
+          "note": "풍력발전기가 서 있는 일출 명소",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/41cmamnIFl6",
+            "full": "https://blog.kakaocdn.net/dn/ctpxqz/dJMcahktyNu/ezRrk7T4e1H4fLcBkkErZ1/img.jpg",
+            "page": "https://hyena1971.tistory.com/1716",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/19_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "강구항",
+          "note": "대게 거리로 이름난 항구",
+          "photo": {
+            "thumb": "https://thumb.wikimedia.org/wikipedia/ko/thumb/c/c3/%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG/960px-%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "full": "https://thumb.wikimedia.org/wikipedia/ko/thumb/c/c3/%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG/960px-%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "page": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B5%AC%ED%95%AD",
+            "source": "ko.wikipedia",
+            "local": "/app/static/photos/19_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "고래불해수욕장",
+          "note": "길게 이어진 백사장 해변",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/3X6L7tmqQGa",
+            "full": "https://postfiles.pstatic.net/MjAyNDA4MDdfNDEg/MDAxNzIzMDM0NDk5MzE0.N3KIJs1axJiEyzGXILERfe46_0ScaeJXcPciLsE6BTEg.5A6i7aetVYHu4oKkLdPra5RMuxPYhKohUzsnSOy-FLEg.JPEG/20240729%EF%BC%BF134309_%EF%BC%881%EF%BC%89.jpg?type=w580",
+            "page": "http://blog.naver.com/songofwillow/223540158059",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/19_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "영덕 대게",
+          "note": "동해 대표 겨울 별미",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/3QLtf4Px0uq",
+            "full": "https://postfiles.pstatic.net/MjAyNTA0MTFfOCAg/MDAxNzQ0MzQ1MzExMjcz.und4ge2huB4C6Jowt3ugeliqkj33M2ei7rxGYJxCSawg.EZLFOf6maSKtZd9f5o7X6zk9NSLueraOlNaE9L8WSUUg.JPEG/KakaoTalk_20250324_112153774_19.jpg?type=w966",
+            "page": "http://blog.naver.com/choa-00/223829642190",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/19_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "영덕 물가자미회",
+          "note": "쫄깃하게 썰어 먹는 가자미회",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/EFViEBVlaNE",
+            "full": "https://postfiles.pstatic.net/MjAyNjA0MTNfMTk0/MDAxNzc2MDc5MDAyOTg3.w1FDs59-NFomvtAjps5sw4h8WYy6CPE1tF_pPaIOwdog.jaEsc-GuDhzraoM-1_kqnz4ivVtqIKgyD34QcSap1Ckg.JPEG/bandicam_2026-04-13_20-13-50-626.jpg?type=w773",
+            "page": "http://blog.naver.com/slowlife80/224250952136",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/19_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "강구항 회센터",
+          "note": "항구에서 바로 맛보는 해산물",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/KAWWZpxWagH",
+            "full": "https://postfiles.pstatic.net/MjAyNTA5MDRfMzAg/MDAxNzU2OTUyMDc5Mjk1.ESejF0YBhB65f3tzg2TWncrVDjEn4XTU4RInTgUdcZUg.d3h1oxIfKlatukn2MX2kuoM7Xk1fc9Wn1w60aV0A2Kkg.JPEG/KakaoTalk_20250903_163520823_14.jpg?type=w386",
+            "page": "http://blog.naver.com/a202412/223994848792",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/19_f3.jpg",
+            "low": true
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "블루로드 해안 트레킹",
+          "note": "동해를 따라 걷는 해안 길",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/5da9eQGHkZh",
+            "full": "http://cfile282.uf.daum.net/image/2770083F513BFAA91BC75A",
+            "page": "https://cafe.daum.net/bluetime../DH2D/323",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/19_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "창포말등대 산책",
+          "note": "바다 위로 나온 등대 산책",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/HjOrkHDN9JN",
+            "full": "https://postfiles.pstatic.net/MjAyNjA4MzBfMjE2/MDAxNzg4MDY4Mjc4MzQ0.vQ7iSEQRYC-EOOEEkGoHaQ_PsG5NO3aiI52O6nXU8X0g.hnsdp5cc3ttrMe6GZc2v6DP2fth6HWncTu9d-rpSYZ0g.JPEG/DSC01152.JPG?type=w773",
+            "page": "http://blog.naver.com/parthenon4u/224394982944",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/19_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "영덕 풍력발전단지 걷기",
+          "note": "바람 부는 언덕 산책길",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/3mrW7r7aYsA",
+            "full": "https://blog.kakaocdn.net/dn/kTPRO/dJMcadb6EQQ/wf1ovTvK8XWXarOi7sGkj0/img.png",
+            "page": "https://hyunys.tistory.com/23",
+            "source": "kakao image (티스토리)",
+            "local": "/app/static/photos/19_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "군산",
+      "lon": 126.71,
+      "lat": 35.97,
+      "places": [
+        {
+          "name": "경암동 철길마을",
+          "note": "열차가 지나던 옛 철길 마을",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/2iEVBiVHISk",
+            "full": "http://pds83.cafe.daum.net/image/1/cafe/2008/08/26/21/27/48b3f6c08cc1c",
+            "page": "https://cafe.daum.net/photoac/AnMi/356",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/20_p1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "군산 근대역사박물관",
+          "note": "개항기 군산의 역사를 전시",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/BhAqk3wS9rl",
+            "full": "https://www.webeconomy.co.kr/news/photo/202609/2315611_1125184_4842.jpg",
+            "page": "https://cp.news.search.daum.net/p/182289887",
+            "source": "kakao image (웹이코노미)",
+            "local": "/app/static/photos/20_p2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "선유도",
+          "note": "다리로 이어진 서해의 섬",
+          "photo": {
+            "thumb": "https://search3.kakaocdn.net/argon/130x130_85_c/9dmtTMOFoKr",
+            "full": "https://postfiles.pstatic.net/MjAyNjAyMDJfMzUg/MDAxNzcwMDEwNDY3MTc1.NgeD1cQIkD7hKyyUvlKrUBQfDKUzZ_cSlDglSAGHnkog.G_O-T_jKsx87Ynz5UcGMGQsYpoKf2V-XgoTvV0QZk-Mg.JPEG/title_jbg0203.jpg?type=w966",
+            "page": "http://blog.naver.com/lightsout/224169407764",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/20_p3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "foods": [
+        {
+          "name": "이성당 단팥빵",
+          "note": "오래된 빵집의 대표 빵",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/92M8ajRhkwZ",
+            "full": "https://postfiles.pstatic.net/MjAyMDA2MjlfNzYg/MDAxNTkzNDExOTUyODU5.lA7hkk4Sw-NiGRDYMRlCFMFLSHBjDjN5bzePMCRDKYQg.VwIxjYoRmzR77tjfFLZ5RoCCBgMcYzCSgtOjCCkUMGcg.JPEG.jinygoon/1593411952892.jpg?type=w966",
+            "page": "http://blog.naver.com/jinygoon/222015704011",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/20_f1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "군산 짬뽕",
+          "note": "해물이 듬뿍 든 얼큰한 짬뽕",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/5L24WrC6d1H",
+            "full": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/f5804030-5662-4cfb-9249-7fdd67a10dd4_6.jpg",
+            "page": "http://blog.naver.com/ks_foryou/224028238606",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/20_f2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "군산 박대구이",
+          "note": "꾸덕하게 말려 구운 생선",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/BWgTrupJvoz",
+            "full": "http://st.kakaocdn.net/shophow/p/C5259318609.jpg?ut=20251227081825",
+            "page": "https://shoppinghow.kakao.com/in/product?prodid=C5259318609",
+            "source": "kakao image (쇼핑하우)",
+            "local": "/app/static/photos/20_f3.jpg",
+            "low": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "name": "군산 근대문화거리 걷기",
+          "note": "일제강점기 건물이 남은 거리",
+          "photo": {
+            "thumb": "https://search1.kakaocdn.net/argon/130x130_85_c/Dtt0P53BCig",
+            "full": "http://cfile247.uf.daum.net/image/1619A7484F268CD00D5581",
+            "page": "https://cafe.daum.net/yasangcho/6hAe/4507",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/20_a1.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "새만금방조제 드라이브",
+          "note": "바다 위를 달리는 긴 방조제",
+          "photo": {
+            "thumb": "https://search4.kakaocdn.net/argon/130x130_85_c/210SRESR1NA",
+            "full": "https://postfiles.pstatic.net/MjAyNDEwMDNfMjQ0/MDAxNzI3OTY0ODY5OTk2.1SeoJBgJMK1nCEQU6n1SutZdu2vTs94FNhsthgvlr1Ug.0tv5K85JrhJv9s6XWg81k0d9HzVWpWJ5AJA_QP8Ttksg.PNG/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A9%94%EC%9D%B8%EC%82%AC%EC%A7%843%EF%BC%8D069.png?type=w966",
+            "page": "http://blog.naver.com/jlovehoiks/223607146699",
+            "source": "kakao image (네이버블로그)",
+            "local": "/app/static/photos/20_a2.jpg",
+            "low": false
+          }
+        },
+        {
+          "name": "선유도 자전거 타기",
+          "note": "섬 해변을 따라 달리기",
+          "photo": {
+            "thumb": "https://search2.kakaocdn.net/argon/130x130_85_c/7lE2FOI2xrT",
+            "full": "http://pds53.cafe.daum.net/image/6/cafe/2008/07/08/10/49/4872c766e29d6",
+            "page": "https://cafe.daum.net/hdesc/6fhM/104",
+            "source": "kakao image (Daum카페)",
+            "local": "/app/static/photos/20_a3.jpg",
+            "low": false
+          }
+        }
+      ]
+    }
+  ]
+}
