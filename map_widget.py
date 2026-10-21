@@ -67,7 +67,10 @@ def _with_local_photos(region: dict) -> dict:
         for item in region.get(kind, []):
             photo = item.get("photo")
             if photo and photo.get("local"):
-                item = {**item, "photo": {**photo, "thumb": photo["local"], "full": photo["local"]}}
+                # 주소 앞의 '/'를 뺀 상대 주소로 씁니다. 배포(Cloud)에서는 앱이 /~/+/ 아래에서 열려서
+                # '/app/static/...' 처럼 맨 앞에서 시작하면 앱이 아닌 곳을 가리켜 사진이 안 뜹니다.
+                rel = photo["local"].lstrip("/")
+                item = {**item, "photo": {**photo, "thumb": rel, "full": rel}}
             items.append(item)
         out[kind] = items
     return out
